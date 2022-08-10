@@ -21,7 +21,6 @@ const App = () => {
   return (
     <>
       <Search />
-      <Accordion items={items} />
     </>
   );
 };
